@@ -12,4 +12,4 @@ Bsc Electronics & Computer Technology
 - chatbot
 - Sales Analysis
 
-#### Technical Skills: Python, SQL, Power BI, Tableau, Excel, Machine Learning, Prompt Engineering. 
+### Technical Skills: Python, SQL, Power BI, Tableau, Excel, Machine Learning, Prompt Engineering. 
