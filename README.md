@@ -3,8 +3,8 @@
 ### Education
 
 ### Work Experience
-- developer for an e-commerce
-- Logistics Analyst for Haulage & Transport Company
+- Developer at USESAFEBUY e-commerce
+- Data Analyst at Joza Global Logistics Company
 
 ### Projects
 - sentiment Analysis on Twitter Platform
