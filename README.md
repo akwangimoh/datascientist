@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Education
-Bsc Electronics & Computer Technology
+Bsc Electronics & Computer Technology: University of Calabar, Cross River State. Nigeria.
 
 ### Work Experience
 - Developer at USESAFEBUY e-commerce: As a Data Analyst at USB Ecommerce Company, I played a pivotal role in leveraging data-driven insights to enhance decision-making processes and drive business growth. My responsibilities spanned the entire data lifecycle, from collection and cleansing to analysis and reporting.
