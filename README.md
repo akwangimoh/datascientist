@@ -11,3 +11,5 @@ Bsc Electronics & Computer Technology
 - Sentiment Analysis on X (Twitter)
 - chatbot
 - Sales Analysis
+
+#### Technical Skills: Python, SQL, Power BI, Tableau, Excel, Machine Learning, Prompt Engineering. 
