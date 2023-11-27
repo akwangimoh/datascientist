@@ -5,7 +5,7 @@ Bsc Electronics & Computer Technology
 
 ### Work Experience
 - Developer at USESAFEBUY e-commerce
-- Data Analyst at Joza Global Logistics Company
+- Data Analyst at Grit & Gumption Company
 
 ### Projects
 - Sentiment Analysis on X (Twitter)
