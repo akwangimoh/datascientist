@@ -11,9 +11,8 @@ Bsc Electronics & Computer Technology: University of Calabar, Cross River State.
 - Data Interpretation and Visualization: I Spearheaded the development and implementation of robust data visualization techniques, translating complex datasets into clear and actionable insights for cross-functional teams. Utilized tools such as Tableau and Power BI to create interactive dashboards, enabling stakeholders to make informed decisions swiftly.
 
 ### Projects
-- Sentiment Analysis on X (Twitter)
-- chatbot
-- Sales Analysis
+- Healthcare Analysis
+- Sales Analysis on PowerBI
 
 ### Technical Skills: 
 Python, SQL, Power BI, Tableau, Excel, Machine Learning, Prompt Engineering. 
